@@ -55,3 +55,17 @@ void sumArray(int numbers[], int size){
      cout << "The sum of the array is: " << sum << endl << endl;
 }
 
+/*
+ * Extra Credit:
+ *     Add the following two functions:
+ *     1. A function called countEven that counts and returns the number
+ *        of evan values in the array numbers.
+ *     2. A function to find and return the total of all the values in the array numbers.
+ *
+ *     Test your functions by calling them in the main function. These functions should work for
+ *     any array size.
+ *
+ * To submit the extra credit, you must create a public repository on GitHub and tag me (@nasseef) when
+ * you are done.  This extra credit is due at 11:59 PM Monday 3/18/2019.
+ *
+ */
